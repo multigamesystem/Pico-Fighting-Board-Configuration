@@ -1,4 +1,4 @@
-# Pico-Fighting-Board-Configuration
+# Pico Fighting Board Configuration v1.1
 Help files and reference for setting up and wiring your Pico Fighting Board.
 
 Button pinout for Pico Fighting Board
