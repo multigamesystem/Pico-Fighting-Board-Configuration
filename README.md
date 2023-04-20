@@ -1,6 +1,6 @@
 # Pico Fighting Board Configuration v1.1
 Help files and reference for setting up and wiring your Pico Fighting Board.
 
-Button pinout for Pico Fighting Board
+Screw Terminal Pin Mapping
 
-![Board Pin Mapping 1](https://user-images.githubusercontent.com/49738515/233267354-59f3c78a-e67b-4105-9c78-25dbd885ef05.jpg)
+![Pico-Fighting-Board-Screw-Terminal-Mapping-v1](https://user-images.githubusercontent.com/49738515/233307190-cd727753-7562-46d5-9686-56b2d0cd7c32.jpg)
