@@ -3,7 +3,7 @@ Help files and reference for setting up and wiring your Pico Fighting Board.
 
 ## Screw Terminal Pin Mapping
 
-![Pico-Fighting-Board-Screw-Terminal-Mapping-v1](https://user-images.githubusercontent.com/49738515/233307190-cd727753-7562-46d5-9686-56b2d0cd7c32.jpg)
+![Pico-Fighting-Board-Screw-Terminal-Mapping-v1](https://user-images.githubusercontent.com/49738515/233309032-99b0f03c-7248-40c3-b073-781896493ab5.jpg)
 
 
 ## Pin Header Mapping 
