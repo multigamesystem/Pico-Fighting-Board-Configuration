@@ -11,7 +11,7 @@ Help files and reference for setting up and wiring your Pico Fighting Board.
 
 ![Pico-Fighting-Board-Pin-Header-Mapping-v1](https://user-images.githubusercontent.com/49738515/233307711-99bbb33f-7736-4dd6-b226-11b4e7252485.jpg)
 
-## Components needed for assembling your own boards
+## Components needed for assembling your own boards (soldering required)
 
 Pico Fighting Board Components List v1.1a
 
