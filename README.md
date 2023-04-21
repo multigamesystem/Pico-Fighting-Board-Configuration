@@ -28,3 +28,6 @@ Qty - Part
 <br>2 - 4.7k ohm Capacitor 0805 SMD type
 <br>1 - 0.1 uF (100nF) Capacitor 0805 SMD type
 
+## Component Location
+
+![Pico-Fighting-Component-Location-v1](https://user-images.githubusercontent.com/49738515/233525064-eb9c1e33-8178-4de3-836f-724313b14e46.jpg)
