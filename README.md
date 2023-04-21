@@ -31,3 +31,8 @@ Qty - Part
 ## Component Location
 
 ![Pico-Fighting-Component-Location-v1](https://user-images.githubusercontent.com/49738515/233525064-eb9c1e33-8178-4de3-836f-724313b14e46.jpg)
+
+## Note
+
+A newer community version of the firmware for the Raspberry Pi Pico can be found here : 
+<a href=https://github.com/OpenStickCommunity/GP2040-CE>https://github.com/OpenStickCommunity/GP2040-CE</a>
