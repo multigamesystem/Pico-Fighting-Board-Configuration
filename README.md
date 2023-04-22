@@ -32,6 +32,10 @@ Qty - Part
 
 ![Pico-Fighting-Component-Location-v1](https://user-images.githubusercontent.com/49738515/233525064-eb9c1e33-8178-4de3-836f-724313b14e46.jpg)
 
+## Soldering and assembly guide
+
+Here > https://tt3d.xyz/2021/12/24/pico-fighting-board-rev1-1-soldering-tutorial/
+
 ## Note
 
 A newer community version of the firmware for the Raspberry Pi Pico can be found here : 
