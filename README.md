@@ -3,7 +3,8 @@ Help files and reference for setting up and wiring your Pico Fighting Board.
 
 ## Quick refrence guide
 
-Here > https://github.com/multigamesystem/Pico-Fighting-Board-Configuration/blob/429b3b02315ea728e0700cbfbce022340de46828/Pico%20Fighting%20Board%20v1.1%20Quick%20Reference.pdf
+Right click to save this PDF
+https://github.com/multigamesystem/Pico-Fighting-Board-Configuration/blob/429b3b02315ea728e0700cbfbce022340de46828/Pico%20Fighting%20Board%20v1.1%20Quick%20Reference.pdf
 
 ## Screw Terminal Pin Mapping
 
